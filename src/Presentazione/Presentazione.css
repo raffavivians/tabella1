@@ -1,0 +1,12 @@
+.Tabella1 {
+    width:300px;
+    /* background-color: beige; */
+    display:inline-block;
+    font:inherit;
+    border: 1px solid blue;
+    padding: 8px;
+    box-shadow:0px 5px 7px blue;
+    text-align: center;
+
+
+}

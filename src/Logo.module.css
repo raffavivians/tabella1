@@ -1,0 +1,24 @@
+.Logo {
+    margin-top:2px;
+    padding:0px;
+    /* height:50%; */
+    /* box-sizing:border-box; */
+    /* border-radius:5px; */
+
+}
+
+/* .Logom img{height:80%} */
+
+@media print {
+
+    .Logom img{height:50%}
+
+
+    .Logo {
+        height:10px;
+        margin-left:0px;
+        margin-top:0px;
+        display:none ; 
+
+    } 
+}
